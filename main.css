@@ -1,0 +1,17 @@
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+/*container for coffee shops*/
+.list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+/*coffee shops*/
+.shop {
+    display: flex;
+    flex-basis: 30%;
+    border: 1px dotted black
+}
